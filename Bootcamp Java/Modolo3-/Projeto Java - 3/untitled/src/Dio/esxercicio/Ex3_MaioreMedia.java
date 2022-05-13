@@ -8,7 +8,7 @@ public class Ex3_MaioreMedia {
         int num;
         int cont=0;
         int maior = 0;
-        int soma;
+        int soma =0;
 
         System.out.println("Informe os números");
 
@@ -20,7 +20,7 @@ public class Ex3_MaioreMedia {
 
             if ( num > maior) maior = num;
             cont = cont + 1;
-        } while (cont < 5)
+        } while (cont < 5);
 
         System.out.println("Maior número: " + maior);
         System.out.println("Media: " + (soma/5));

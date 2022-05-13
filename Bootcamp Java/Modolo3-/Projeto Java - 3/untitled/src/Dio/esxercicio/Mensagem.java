@@ -46,7 +46,7 @@ public class Mensagem {
     public static void mensagemBomdia(){
         System.out.println("Bom diaa!");
     }
-    public static void mensagemBoatardedia(){
+    public static void mensagemBoatarde(){
         System.out.println("Boa Tardee!");
     }
     public static void mensagemBoanoite(){
